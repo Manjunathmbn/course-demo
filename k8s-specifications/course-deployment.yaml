@@ -15,6 +15,7 @@ spec:
       containers:
       - name: course-demo
         image: mbndocker/course-demo  # Public course game image
+        imagePullPolicy: Always
         ports:
-        - containerPort: 80
+        - containerPort: 8080
 
