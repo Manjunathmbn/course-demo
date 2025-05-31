@@ -1,4 +1,4 @@
-package com.course.model;
+package com.course.demo.model;
 
 public class Course {
     private String id;
