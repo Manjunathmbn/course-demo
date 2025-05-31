@@ -1,7 +1,7 @@
-package com.course.controller;
+package com.course.demo.controller;
 
-import com.course.model.Course;
-import com.course.service.CourseService;
+import com.course.demo.model.Course;
+import com.course.demo.service.CourseService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
