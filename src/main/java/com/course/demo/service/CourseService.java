@@ -1,6 +1,6 @@
-package com.course.service;
+package com.course.demo.service;
 
-import com.course.model.Course;
+import com.course.demo.model.Course;
 import org.springframework.stereotype.Service;
 
 import java.util.Map;
