@@ -11,7 +11,7 @@ public class SpringCourseDemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Welcome to the Spring Course Demo Application!";
+		return "Welcome to the Spring Course Demo App!";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCourseDemoApplication.class, args);
